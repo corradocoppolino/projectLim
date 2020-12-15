@@ -1,0 +1,64 @@
+body
+{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+.contenitore
+{
+  background-color: rgba(0,0,0,0.5);
+  width:1000px;
+  margin:auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+header{text-align: center;}
+
+#logo{width:150px;}
+
+.testo-logo{color:#00FF00;}
+
+nav
+{
+
+  width: 90%;
+  margin: auto;
+  background-color:#00FF00;
+;
+  text-align: center;
+  padding-top:10px;
+  padding-bottom: 10px;
+}
+
+main
+{
+  padding-left: 50px;
+  padding-top: 10px;
+  color: white;
+}
+
+div.testo-piccolo{font-size: 12px;}
+
+.box-carica1
+{
+  width: 20%;
+  height: 20px;
+  background-color: orange;
+  border-radius: 10px;
+}
+.box-carica2
+{
+  border-radius: 10px;
+  width: 30%;
+  height: 20px;
+  background-color:#00FF00;
+}
+.box-carica3
+{
+  border-radius: 10px;
+  width: 10%;
+  height: 20px;
+  background-color: red;
+}
